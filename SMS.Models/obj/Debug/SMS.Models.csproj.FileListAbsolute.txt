@@ -1,0 +1,5 @@
+D:\Practice\C#\WinAppProject\StockManagementSystem\SMS.Models\bin\Debug\SMS.Models.dll
+D:\Practice\C#\WinAppProject\StockManagementSystem\SMS.Models\bin\Debug\SMS.Models.pdb
+D:\Practice\C#\WinAppProject\StockManagementSystem\SMS.Models\obj\Debug\SMS.Models.csprojResolveAssemblyReference.cache
+D:\Practice\C#\WinAppProject\StockManagementSystem\SMS.Models\obj\Debug\SMS.Models.dll
+D:\Practice\C#\WinAppProject\StockManagementSystem\SMS.Models\obj\Debug\SMS.Models.pdb

@@ -1,0 +1,7 @@
+D:\Practice\C#\WinAppProject\StockManagementSystem\SMS.DAL\bin\Debug\SMS.DAL.dll
+D:\Practice\C#\WinAppProject\StockManagementSystem\SMS.DAL\bin\Debug\SMS.DAL.pdb
+D:\Practice\C#\WinAppProject\StockManagementSystem\SMS.DAL\bin\Debug\SMS.Models.dll
+D:\Practice\C#\WinAppProject\StockManagementSystem\SMS.DAL\bin\Debug\SMS.Models.pdb
+D:\Practice\C#\WinAppProject\StockManagementSystem\SMS.DAL\obj\Debug\SMS.DAL.csprojResolveAssemblyReference.cache
+D:\Practice\C#\WinAppProject\StockManagementSystem\SMS.DAL\obj\Debug\SMS.DAL.dll
+D:\Practice\C#\WinAppProject\StockManagementSystem\SMS.DAL\obj\Debug\SMS.DAL.pdb
